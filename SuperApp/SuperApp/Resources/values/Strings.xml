@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">SuperApp</string>
+  <string name="ActivityInscription_textview_step1">ETAPE 1</string>
+  <string name="ActivityInscription_textview_step2">ETAPE 2</string>
+  <string name="ActivityInscription_textview_step3">ETAPE 3</string>
+  <string name="fragmentPseudoEmailPassword_edittext_pseudo">Choisis un pseudo</string>
+  <string name="fragmentPseudoEmailPassword_edittext_mail">Saisis ton email</string>
+  <string name="fragmentPseudoEmailPassword_edittext_password">Saisis un mot de passe</string>
+  <string name="fragmentPseudoEmailPassword_btn_next">Passer à l\'étape suivante !</string>
+</resources>

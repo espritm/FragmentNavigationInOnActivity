@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="superApp_GreenPrincipal">#277650</color>
+  <color name="superApp_GreenHighlight">#76B295</color>
+  <color name="superApp_GreenDisable">#003B1F</color>
+  <color name="superApp_White">#ffffffff</color>
+  <color name="superApp_LightGrey">#ff979797</color>
+</resources>
