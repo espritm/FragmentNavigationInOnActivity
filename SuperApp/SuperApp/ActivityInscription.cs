@@ -5,7 +5,7 @@ using Android.Support.V7.App;
 
 namespace SuperApp
 {
-    [Activity(Label = "Inscris-toi !", MainLauncher = true, Theme = "@style/Theme.SuperApp", Icon = "@drawable/icon")]
+    [Activity(Label = "@string/ActivityInscription_label", MainLauncher = true, Theme = "@style/Theme.SuperApp", Icon = "@drawable/icon")]
     public class ActivityInscription : AppCompatActivity
     {
         TextView m_textviewStep1;

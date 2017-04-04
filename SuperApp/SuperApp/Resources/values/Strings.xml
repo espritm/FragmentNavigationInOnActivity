@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
     <string name="ApplicationName">SuperApp</string>
+    <string name="ActivityInscription_label">Inscris-toi !</string>
   <string name="ActivityInscription_textview_step1">ETAPE 1</string>
   <string name="ActivityInscription_textview_step2">ETAPE 2</string>
   <string name="ActivityInscription_textview_step3">ETAPE 3</string>
